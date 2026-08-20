@@ -3,7 +3,7 @@ id: thi-land-brief-software
 client_id: thi-land
 record_type: brief
 service_path: software
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client

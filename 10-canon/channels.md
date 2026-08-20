@@ -3,7 +3,7 @@ id: thi-land-canon-channels
 client_id: thi-land
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Channel selection, role of each channel, founder/network leverage and current hypotheses.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 - Channel stack: website (thiland.ch) + landing, Instagram (primary), Facebook, email (Brevo), Google Ads + Google Business Profile, WhatsApp (client comms + mums' groups), OKKIO (chatbot/CRM touchpoints), local partnerships and local PR (THI-LAND-PROJECT.md; MASTER_PROMPT_THILAND.md; fase-3 docs 01–15).
 - TikTok: contract Phase 7 includes it ("Setup profili Instagram, Facebook, TikTok"; 8 post + 8 Reel/TikTok per month) and the master prompt pushed it, but the final ADV plan excludes it "per strategia" (07-piano-adv title note in 00-OVERVIEW-MARKETING-PLAN.md: "TikTok escluso per strategia"). Conflict to confirm.

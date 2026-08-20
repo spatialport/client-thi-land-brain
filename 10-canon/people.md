@@ -3,7 +3,7 @@ id: thi-land-canon-people
 client_id: thi-land
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Decision makers, operators, subject-matter experts, client contacts and approval responsibilities.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 Client side:
 - Daniele Pronzini — co-founder, owner of the Centro Opti, primary decision maker; signs for KRISTAL SA on the OKKIO contract; prefers WhatsApp for project communication (THI-LAND-PROJECT.md; THI-LAND-OKKIO-CONTRATTO.md; MASTER_PROMPT_THILAND.md).

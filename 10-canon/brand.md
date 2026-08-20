@@ -3,7 +3,7 @@ id: thi-land-canon-brand
 client_id: thi-land
 record_type: knowledge
 service_path: branding
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 This is the foundation for generated content. Do not scale content production until Alex accepts it.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 ### Brand truth
 - Purpose: give Ticino families an indoor play space where children have safe, active fun and parents genuinely feel good — the "boutique" opposite of the chaotic "capannone" (THI-LAND-PROJECT.md; 02-posizionamento-differenziazione.md).

@@ -3,7 +3,7 @@ id: thi-land-onboarding-completeness
 client_id: thi-land
 record_type: approval
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client

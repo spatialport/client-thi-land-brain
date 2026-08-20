@@ -3,7 +3,7 @@ id: thi-land-canon-icp
 client_id: thi-land
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Who the business serves, jobs, pains, buying context, objections, geography and evidence.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 - Primary persona: parents aged 35–50 (ADV targeting notes also say 28–45), predominantly mums as decision-makers (~60/40 mums/dads for the first visit), transversal professions, Swiss family income (~CHF 7,000/month average salary) making memberships sustainable; they want safe, clean, practical fun for their child after school (school ends 15:30) (THI-LAND-PROJECT.md; MASTER_PROMPT_THILAND.md).
 - End users are children 3–10, segmented: 3–6 years → soft play, slides, ball pits, protected areas (communication: parental reassurance); 7–10 years → physical-interactive arcade, air hockey, prize games, table football (communication: fun, challenge, points and prizes) (THI-LAND-PROJECT.md).

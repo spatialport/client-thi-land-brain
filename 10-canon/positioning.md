@@ -3,7 +3,7 @@ id: thi-land-canon-positioning
 client_id: thi-land
 record_type: knowledge
 service_path: branding
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Unique advantage, category, alternatives, promises, reasons to believe and prohibited claims.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 - Positioning statement (source of truth, 02-posizionamento-differenziazione.md): "Per le famiglie con bambini dai 3 ai 10 anni del Bellinzonese e del Ticino, THI LAND è il parco gioco indoor del Centro Opti che unisce un'avventura sicura e divertente per i bambini a un ambiente curato e accogliente per i genitori, perché — a differenza dei grandi parchi-capannone — mettiamo la stessa cura nel divertimento dei bambini e nel benessere di chi li accompagna."
 - Official claim (brandbook): «Dove l'energia diventa gioia.» Internal shorthand: "Il parco indoor 'boutique' delle famiglie ticinesi — pulito, sicuro, fatto bene." Vision: transform the concept of indoor play in Ticino. Mission: create the reference point for local families (02-posizionamento-differenziazione.md).

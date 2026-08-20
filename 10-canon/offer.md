@@ -3,7 +3,7 @@ id: thi-land-canon-offer
 client_id: thi-land
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Products/services, economics, proof, differentiation and current commercial priorities.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 Entry pricing (latest confirmed, 5 Aug 2026): public entry CHF 10 per person, anti-slip socks excluded, under 2 years free; preview/Open Day ticket CHF 7 per person including entry + anti-slip socks (separate value CHF 15, saving CHF 8); no T-shirt included in any offer (00-OVERVIEW-MARKETING-PLAN.md changelog). Earlier official data listed child max CHF 12 / adult CHF 3 (MASTER_PROMPT_THILAND.md §6) and adult CHF 4 (THI-LAND-PROJECT.md) — superseded/conflicting, see Open questions.
 

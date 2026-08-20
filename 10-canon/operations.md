@@ -3,7 +3,7 @@ id: thi-land-canon-operations
 client_id: thi-land
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: How the physical business actually works, including constraints, seasonality, locations and customer journey.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 Physical venue:
 - Upper floor of the Centro Opti, Lumino: play areas (soft play 3–6, arcade 7–10), reception, lockers (QR-opened via app), minimum 2 frequently checked bathrooms; lower floor: THI Kitchen/Restaurant, internally connected by stair/door — re-entry from restaurant to park only with an active wristband (THI-LAND-PROJECT.md).

@@ -3,7 +3,7 @@ id: thi-land-canon-company
 client_id: thi-land
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Who the company is, legal/operating context, history, beliefs, mistakes, lessons and five-year ambition.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 - THI LAND is an organized indoor play park ("spazio gioco organizzato") for children aged 3–10, located inside the Centro Opti in Lumino, Canton Ticino, Switzerland (THI_LAND_Contratto_testo.txt; THI-LAND-PROJECT.md).
 - It is explicitly not a generic indoor playground: the ambition is a "boutique" — clean, curated, safe, pleasant for parents as well as children — as opposed to the big industrial "capannone" parks (THI-LAND-PROJECT.md: «Può essere come una "boutique" rispetto ai grandi parchi industriali»).
