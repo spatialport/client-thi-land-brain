@@ -32,4 +32,5 @@ Note (2026-08-19, unverified nuance from sources): the main services contract SP
 
 ## Change notes
 
+- 2026-08-20 — THI RESTAURANT sub-brand (ev-tl-002): brandbook section for the restaurant sub-brand ingested as proposed evidence; candidate canon added to `10-canon/brand.md` (independent palette, two logo variants, coexistence rules, shared typography as the only family link). Open: whether this service path sits inside contract SP-2026-THI-001 or needs a separate quote, and which legal entity operates the restaurant — both affect `ip_owner` and invoicing. `active_service_paths` left unchanged (branding already present).
 - 2026-08-19 — Workspace audit (ev-tl-001): bumped brain_spec_version to 1.1.0; populated active_service_paths from contract/deliverable evidence (branding, content, crm, landing-pages, local-seo, paid-media, software); confirmed client legal entity in sources is KRISTAL SA (UID CHE-115.363.630), represented by Daniele Pronzini — `legal_name` left as "THI-LAND" pending Alex review. Canon files 10-canon/* filled with proposed knowledge from primary sources; see 20-evidence/2026-08-19__workspace-audit__thi-land-sources__ev-tl-001.md.
