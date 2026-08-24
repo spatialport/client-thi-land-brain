@@ -11,8 +11,9 @@ access_scope: internal
 sensitivity: confidential
 source_ref: evidence://ev-tl-001
 schema_version: 1.1.0
+supersedes: thi-land-canon-brand@2026-08-20
 created_at: 2026-08-11
-updated_at: 2026-08-19
+updated_at: 2026-08-21
 ---
 # Brand Book
 
@@ -33,7 +34,9 @@ This is the foundation for generated content. Do not scale content production un
 - Logo assets: LOGO-1.svg / LOGO-2.svg / HEAD.svg in NXTO/clienti/THI-LAND/; thi-logo.svg and okkio-head.svg in projects/thi-land/presentazioni/assets/ (MASTER_PROMPT_THILAND.md; workspace audit).
 
 ### Mascot
-- The mascot is the face of the brand: a rounded teal cyclops with soft organic curves, named OKKIO in MASTER_PROMPT_THILAND.md §5 ("Mascotte: OKKIO, un ciclope tondeggiante color teal"); earlier and marketing documents call it "mascotte THI" (THI-LAND-PROJECT.md; contract Phase 4 "Chatbot mascotte THI"). Naming conflict — see Open questions.
+- **The public name of the mascot is THI** (decision dec-tl-005, 21 Aug 2026). OKKIO names the management software only. MASTER_PROMPT_THILAND.md §5 and the brandbook still say OKKIO and must be corrected.
+- The mascot is the face of the brand: a rounded teal cyclops with soft organic curves (MASTER_PROMPT_THILAND.md §5; THI-LAND-PROJECT.md; contract Phase 4 "Chatbot mascotte THI").
+- **The mascot does not extend to THI RESTAURANT** (dec-tl-003). Its absence from the sub-brand section is deliberate — no restaurant material uses it, not even children's menus.
 - Personality: "il bimbo che parla col bimbo" — friendly, reassuring, playful; speaks primarily to children; used in illustrations, chatbot voice, plush merchandise (points-only prizes), physical costume for events, 3D wall mural (THI-LAND-PROJECT.md; THI_LAND_Contratto_testo.txt Allegato A).
 
 ### Voice
@@ -52,18 +55,26 @@ This is the foundation for generated content. Do not scale content production un
 - Forbidden: colouring the mark teal, lime or orange (those belong to THI LAND); changing «THI» alignment beyond the two supplied variants; recomposing the lockup from a font; shadows, outlines, gradients, effects; rotation or distortion; both variants in one piece.
 - Coexistence with THI LAND on shared materials: neutral ground (pure white or neutral grey — never panna nor mint, each is a brand's home field); both logos in Espresso #2B211C or both in white at the same optical size; **no brand accents at all** (brace red and fluo lime vibrate); hierarchy follows ownership of the piece. The family is declared by the «THI» lettering and Outfit — no common colour is needed.
 - Typography: no new typefaces. Outfit SemiBold/Bold for titles, Outfit Regular for text. The lockup is drawn lettering (Arton, customised), used only via the supplied SVG files (`THI-RESTAURANT-LOGO-SX.svg`, `THI-RESTAURANT-LOGO-DX.svg`, both `currentColor`).
+- The 70/30 red-to-green ratio is a **binding rule**, checkable at review — not a guideline (dec-tl-004).
+- **Engagement scope**: the sub-brand sits inside contract SP-2026-THI-001 for the **logo only** (dec-tl-001). Applied artwork — menu, signage, tableware, packaging — is out of scope and makes THI RESTAURANT a client in its own right with separate invoicing. The restaurant is operated by a **separate legal entity** from KRISTAL SA, not yet identified (dec-tl-002).
 
 ### Languages and compliance
-- Internal strategy documents in Italian; public-facing materials IT (default) + DE + EN (MASTER_PROMPT_THILAND.md).
+- Internal strategy documents in Italian; public-facing materials IT (default) + DE + EN per contract (MASTER_PROMPT_THILAND.md). **In practice everything public is Italian only** through the preview and the 31 October opening — a known and accepted gap, to be planned afterwards (dec-tl-013).
+- **KRISTAL SA never appears in public-facing material** (dec-tl-007). It is the paying entity; the public name is always THI LAND. `legal_name` in the manifest is internal metadata only.
 - Minors' privacy is a brand constraint: photos of children only with signed release, no child profiling, parental consent for data, nLPD (Swiss) + GDPR (MASTER_PROMPT_THILAND.md; 00-OVERVIEW-MARKETING-PLAN.md).
 
 ### Deliverable status
 - Brand identity phase (logo, mascot, brandbook) completed Jan–May 2026 per NXTO dashboard (projects.ts phase tl-1 done); brandbook exists as single HTML at NXTO/THI-LAND-BRAND-BOOK.html; brand Phase 1 also covers uniforms, exterior signage/totem, 4x3 billboard with QR, 4 digital card designs (START/PLUS/FAMILY/FOUNDER) (THI_LAND_Contratto_testo.txt Allegato A).
+- **Uniforms, exterior totem/signage and the 4×3 billboard with QR are approved and in production** (dec-tl-012). Phase 1 is closed.
+- **The Arton licence was purchased by the client** (dec-tl-006), per art. 9.2 which puts premium font licences outside the contract and on the client. It covers the lettering reused for THI RESTAURANT.
+- The brandbook of record is currently split: the master file `NXTO/THI-LAND-BRAND-BOOK.html` plus the standalone sub-brand section `clienti/THI-LAND/THI-RESTAURANT-SUBBRAND.html`. Merging them is task `ev-tl-002-t2`.
 
 ## Open questions
 
-- Mascot name: OKKIO vs "THI" — OKKIO is simultaneously the mascot name (master prompt) and the management software name (OKKIO contract). What is the public-facing mascot name?
 - Verify the token palette directly against THI-LAND-BRAND-BOOK.html (master prompt says "verificare leggendolo"); brandbook HTML not yet parsed for this brain.
-- Arton font licence status (premium font licences are excluded from the contract and client-payable, art. 9.2).
-- Have uniforms, totem/signage and billboard designs been approved and produced (client-payable printing)?
-- Is there an approved DE/EN tone-of-voice adaptation?
+- Correct MASTER_PROMPT_THILAND.md §5 and the brandbook, which still name the mascot OKKIO, to THI (dec-tl-005).
+- Identify the separate legal entity operating THI RESTAURANT, to settle `ip_owner` and invoicing for that service path (dec-tl-002).
+
+## Resolved
+
+Mascot name (dec-tl-005) · Arton licence (dec-tl-006) · Phase 1 print production (dec-tl-012) · DE/EN adaptation (dec-tl-013) · sub-brand scope and mascot exclusion (dec-tl-001, dec-tl-003) · KRISTAL SA public-name rule (dec-tl-007). Source: ev-tl-003.

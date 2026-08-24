@@ -11,8 +11,9 @@ access_scope: internal
 sensitivity: confidential
 source_ref: evidence://ev-tl-001
 schema_version: 1.1.0
+supersedes: thi-land-canon-operations@2026-08-19
 created_at: 2026-08-11
-updated_at: 2026-08-19
+updated_at: 2026-08-24
 ---
 # Operations
 
@@ -42,7 +43,23 @@ Spatial Port delivery infrastructure (internal):
 - Public landing: single landing at thiland.ch (00-OVERVIEW-MARKETING-PLAN.md changelog 5 Aug 2026); other domains reportedly bought: thiland.pro, thiland.swiss (to verify) (THI-LAND-PROJECT.md).
 
 Operating constraints and compliance:
-- Official opening hours: Mon/Tue/Thu 15–20 · Wed 9–20 · Fri 15–21:30 · Sat 9–22:30 (giro pizza) · Sun 9–20 (MASTER_PROMPT_THILAND.md §6); seasonality: weekday after-school vs full weekend days; summer = extended hours (THI-LAND-PROJECT.md).
+- **Opening hours — definitive, seven days a week, with staffing coverage (ev-tl-004, dec-tl-018).** These supersede the MASTER_PROMPT §6 schedule.
+
+| Day | Hours | Minimum staff | Note |
+|---|---|---|---|
+| Mon | 15:00–19:00 | 1 | |
+| Tue | 15:00–19:00 | 1 | |
+| Wed | 09:00–13:00 | 1 | covered by hourly support |
+| Wed | 13:00–19:00 | 2 | |
+| Thu | 15:00–19:00 | 1 | |
+| Fri | 15:00–18:00 | 1 | |
+| Fri | 18:00–22:00 | 2 | evening support |
+| Sat | 09:00–22:00 | 2 | THI Night |
+| Sun | 09:00–19:00 | 2 | |
+
+- Wednesday is the only split shift; its morning is the one slot with no permanent staff on site.
+- Staffing model: two employees at 80% each (CHF 4,500 gross at 100%) plus 17 h/week of hourly support at CHF 25/h. Total staff cost CHF 124,755/year including 15% employer charges.
+- Seasonality: weekday after-school vs full weekend days; summer = extended hours (THI-LAND-PROJECT.md).
 - Legal: Swiss nLPD + GDPR; minors' data handled with parental consent; ticket-redemption arcade systems illegal in Switzerland → points system decoupled from arcade winnings; no facial recognition; client is data controller, Spatial Port processor (THI-LAND-PROJECT.md; THI-LAND-OKKIO-CONTRATTO.md art. 13).
 - Key operational risks from discovery: cleanliness as reputational risk, drop-off legal/insurance complexity, finding qualified child-supervision staff, weekday/weekend and seasonal swings (THI-LAND-PROJECT.md §12).
 
@@ -50,7 +67,6 @@ Operating constraints and compliance:
 
 - Cash register/POS selection and wristband technology — both still undecided and blocking OKKIO integration details.
 - Confirm OKKIO Phase 1 delivery status vs the 15 September 2026 deadline (NXTO dashboard showed "Sistema punti & accessi" in progress as of June 2026, projects.ts).
-- Opening-hours conflict: official hours in MASTER_PROMPT §6 vs "DA DEFINIRE" in THI-LAND-PROJECT.md — confirm the §6 schedule is final and published.
 - Drop-off operating model: approved or not; staffing/insurance requirements.
 - Who operates day-to-day after opening (park manager not yet hired in sources)?
 - Domain portfolio: verify ownership/status of thiland.ch, thiland.pro, thiland.swiss.
